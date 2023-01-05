@@ -1,0 +1,75 @@
+body{
+    margin: 0px;
+    text-align: center;
+    
+  
+}
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    background-color: #EAF6F6;
+}
+.bottom-container{
+    background-color: #EAF6F6;
+}
+h1{
+    width: 10%;
+    margin: 0 auto;
+    font-family: 'Sacramento', cursive;
+    color:#ADA2FF;
+    
+}
+h2{
+    font-family:  cursive;
+    
+}
+h3{
+    font-family:  cursive;
+    
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 500px;
+    top: 50px;
+}
+.photo{
+    position: fixed;
+    width: 200px;
+    border-radius: 120%;
+    top: 80px;
+    left: 70px;
+
+}
+.kb{
+    position: fixed;
+    top: 80px;
+    right: 70px;
+    color: orange;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+.vishal{
+    border-radius: 100%;
+}
+hr
+             {
+               background-color: white;
+                border-style:none;
+                border-top-style:dotted ;
+                border-color:grey;
+                border-width:5px;
+                width: 5%;
+                
+
+            }
+.fixed{
+    position:fixed;
+}
